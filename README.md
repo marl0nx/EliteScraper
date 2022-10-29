@@ -1,4 +1,3 @@
-# EliteScraper
 <p align='center'>
   <b>🤖 Follow me here 🤖</b><br>  
   <a href="https://discord.com/users/1032874064731185152">Discord</a> |
