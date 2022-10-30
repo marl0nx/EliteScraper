@@ -1,0 +1,12 @@
+{
+  "version": 1.0,
+
+  "show_dead_proxies": false,
+
+  "proxy_type": "all",
+  "proxy_website_check": "https://discord.com",
+  "timeout": 1000,
+
+  "output_file": "output/proxies.txt",
+  "delete_old_proxies_in_file": true
+}
