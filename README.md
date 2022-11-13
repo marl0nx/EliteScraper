@@ -8,6 +8,7 @@
 <p>A Modern And Fast Proxy Scraper Made In Python!</p>
 
 <h3>Installation</h3>
+
 - #### 🖥️ Getting started
       1 - Download the latest version.
       2 - Run the installation.bat file to install all requirements.
@@ -43,6 +44,8 @@
 <h3>Contact</h3>
 - #### 📟 Discord
       Marl0nX#2122
+
+<br>
 
 - #### 📧 E-Mail
       Soon ..
