@@ -42,10 +42,9 @@
 <p>I am not responsible for any damages done with this tool. It's made for educational purposes only!</p>
 
 <h3>Contact</h3>
+
 - #### 📟 Discord
       Marl0nX#2122
-
-<br>
 
 - #### 📧 E-Mail
       Soon ..
