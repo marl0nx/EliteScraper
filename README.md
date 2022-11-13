@@ -13,6 +13,7 @@
       2 - Run the installation.bat file to install all requirements.
       3 - Edit the config.json file.
       4 - Run the main.py file and enjoy.
+      
 - #### ⚙ Configuration
       - "version": 1.1 | Don't change it or program will maybe stop working.
       - "show_dead_proxies": false | Print not workng proxies in console.
@@ -23,8 +24,10 @@
       You can also add more urls to the urls.txt file (only ip:port format until now).
 
 <h3>About The Project</h3>
+
 - #### ⚙ Developers
       - Marl0nX | Discord: Marl0nX#2122
+ 
 - #### ⚙ The Idea Behind This Project
       This Project started as a hobby and will always be a hobby of mine.
       I needed proxies for anouther project so I made my own proxy scraper because every scraper I tried wasn't good enough.
@@ -40,5 +43,6 @@
 <h3>Contact</h3>
 - #### 📟 Discord
       Marl0nX#2122
+
 - #### 📧 E-Mail
       Soon ..
