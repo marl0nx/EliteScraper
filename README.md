@@ -20,7 +20,6 @@
       - "timeout": 1000 | Set the timeout for the proxy check in ms (more = slower but more proxies).
       - "output_path": "output/proxies.txt" | Set the output path for the proxies.
       - "delete_old_proxies_in_file": true | Delete the old proxies in the proxy file.
-      
       You can also add more urls to the urls.txt file (only ip:port format until now).
 
 <h3>About The Project</h3>
