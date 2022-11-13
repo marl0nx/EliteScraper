@@ -31,7 +31,7 @@
  
 - #### ⚙ The Idea Behind This Project
       This Project started as a hobby and will always be a hobby of mine.
-      I needed proxies for anouther project so I made my own proxy scraper because every scraper I tried wasn't good enough.
+      I needed proxies for another project so I made my own proxy scraper because every scraper I tried wasn't good enough.
       I will continue the project as long as possible. If you have any wishes just open an issue here on Github.
       I will take a look at it and maybe i will add the feature in the future.
       Also if you like my work i would be greatful if you star this project <3
